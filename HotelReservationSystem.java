@@ -15,6 +15,7 @@ public class HotelReservationSystem {
     private static final String password = "Aman@123";
 
     public static void main (String [] args){
+        System.out.println("Hello");
 
     }
 }
